@@ -1,0 +1,1 @@
+Calculator with construction function
